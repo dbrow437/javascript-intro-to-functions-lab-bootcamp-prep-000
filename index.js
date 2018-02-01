@@ -13,7 +13,7 @@ function logWhisper(string){
   console.log("hello")
 }
 
-var lowercase = "hello"
-lowercase.toLowerCase() === lowercase
+var lowercase = 'hello'
+
 function sayHiToGrandma(string){
 }
